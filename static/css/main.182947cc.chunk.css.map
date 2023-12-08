@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,UACE,UAAW,CACX,WAAY,CACZ,WAAgB,CAChB,mBAAoB,CACpB,qBAAuB,CACvB,iBAEF","file":"main.182947cc.chunk.css","sourcesContent":[".greenbtn{\r\n  width: 20px;\r\n  height: 20px;\r\n  padding: 5px 5px;\r\n  border-radius: 100px;\r\n  border: 2px solid black;\r\n  text-align: center;\r\n\r\n}"]}
